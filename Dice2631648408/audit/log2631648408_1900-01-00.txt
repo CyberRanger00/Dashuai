@@ -1,0 +1,10 @@
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\CheckDaily.lua失败:C:\Dice\Dice2631648408\plugin\CheckDaily.lua:73: 'end' expected (to close 'function' at line 9) near <eof>
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\CheckDaily.lua失败:C:\Dice\Dice2631648408\plugin\CheckDaily.lua:73: 'end' expected (to close 'function' at line 9) near <eof>
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\CheckDaily.lua失败:C:\Dice\Dice2631648408\plugin\CheckDaily.lua:73: 'end' expected (to close 'function' at line 9) near <eof>
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\CheckDaily.lua失败:C:\Dice\Dice2631648408\plugin\CheckDaily.lua:73: 'end' expected (to close 'function' at line 9) near <eof>
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\CheckDaily.lua失败:C:\Dice\Dice2631648408\plugin\CheckDaily.lua:73: 'end' expected (to close 'function' at line 9) near <eof>
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\CheckDaily.lua失败:C:\Dice\Dice2631648408\plugin\CheckDaily.lua:73: 'end' expected (to close 'function' at line 9) near <eof>
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\求签2.0.lua失败:C:\Dice\Dice2631648408\plugin\求签2.0.lua:23: '=' expected near '"鏂囨槍甯濆悰鐏电"'
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\求签2.0.lua失败:C:\Dice\Dice2631648408\plugin\求签2.0.lua:23: '=' expected near '"鏂囨槍甯濆悰鐏电"'
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\求签2.0.lua失败:C:\Dice\Dice2631648408\plugin\求签2.0.lua:23: '=' expected near '"鏂囨槍甯濆悰鐏电"'
+	2	本大帅读取lua文件C:\Dice\Dice2631648408\plugin\求签2.0.lua失败:C:\Dice\Dice2631648408\plugin\求签2.0.lua:23: '=' expected near '"鏂囨槍甯濆悰鐏电"'
