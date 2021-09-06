@@ -38,8 +38,6 @@ end
 
 msg_order["石头"] = "rock"
 
-
-
 function pie(msg)
 local self_choice = ranint(1, 3)
   if(self_choice == 1)then
