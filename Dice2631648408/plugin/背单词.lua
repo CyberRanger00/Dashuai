@@ -54,8 +54,8 @@ end
 msg_order["抽取十个单词"] = "DrawWords10"
 
 function IDK(msg)
-	local key = string.match(msg.fromMsg,"^[%s]*([^%s]*)[%s]*(.-)$",#("查询词义")+1) or ""
-    return "点击查询：https://translate.google.cn/?sl=en&tl=zh-CN&text="..key.."&op=translate"
+    return
+        "老子是文盲，自己想办法去！\n(由于master太懒所以词义查询功能暂时还没做出来，请客官移步百度吧)"
 end
 
 msg_order["查询词义"] = "IDK"

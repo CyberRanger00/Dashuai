@@ -136,3 +136,34 @@
 2021-08-29 18:08:45	1	\n读取C:\Dice\Dice2631648408\PublicDeck中的17个文件, 共1433个条目\n读取失败2个:\nUntitled-1.json\n调查员奇遇.txt\n读取/mod/中的2个文件, 共262个条目\n读取/plugin/中的5个脚本, 共9个指令\n扩展配置读取完毕√
 	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
 2021-08-29 18:08:46	1	本大帅初始化完成，用时1秒
+2021-08-29 18:58:27	1	\n读取C:\Dice\Dice2631648408\PublicDeck中的17个文件, 共1433个条目\n读取失败2个:\nUntitled-1.json\n调查员奇遇.txt\n读取/mod/中的2个文件, 共262个条目\n读取/plugin/中的5个脚本, 共9个指令\n扩展配置读取完毕√
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2021-08-29 18:58:29	1	本大帅初始化完成，用时2秒
+	1	本大帅调用C:\Dice\Dice2631648408\plugin\CheckDaily.lua函数checkDaily失败!\nC:\Dice\Dice2631648408\plugin\CheckDaily.lua:54: attempt to perform arithmetic on a nil value
+2021-08-29 18:59:27	0	检查系统负载
+2021-08-29 19:02:55	1	\n读取C:\Dice\Dice2631648408\PublicDeck中的17个文件, 共1433个条目\n读取失败2个:\nUntitled-1.json\n调查员奇遇.txt\n读取/mod/中的2个文件, 共262个条目\n读取/plugin/中的5个脚本, 共9个指令\n扩展配置读取完毕√
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2021-08-29 19:02:55	1	本大帅初始化完成，用时1秒
+2021-08-29 19:03:55	0	检查系统负载
+2021-08-29 19:07:55	0	自动保存
+2021-08-29 19:12:55	0	自动保存
+2021-08-29 19:17:56	0	自动保存
+	1	本大帅调用C:\Dice\Dice2631648408\plugin\CheckDaily.lua函数checkDaily失败!\nC:\Dice\Dice2631648408\plugin\CheckDaily.lua:53: attempt to perform arithmetic on a nil value
+2021-08-29 19:22:57	0	自动保存
+	1	本大帅调用C:\Dice\Dice2631648408\plugin\CheckDaily.lua函数checkDaily失败!\nC:\Dice\Dice2631648408\plugin\CheckDaily.lua:55: attempt to perform arithmetic on a nil value
+	1	本大帅调用C:\Dice\Dice2631648408\plugin\CheckDaily.lua函数checkDaily失败!\nC:\Dice\Dice2631648408\plugin\CheckDaily.lua:55: attempt to perform arithmetic on a nil value
+	1	本大帅调用C:\Dice\Dice2631648408\plugin\CheckDaily.lua函数checkDaily失败!\nC:\Dice\Dice2631648408\plugin\CheckDaily.lua:55: attempt to perform arithmetic on a nil value
+	1	本大帅调用C:\Dice\Dice2631648408\plugin\CheckDaily.lua函数checkDaily失败!\nC:\Dice\Dice2631648408\plugin\CheckDaily.lua:56: attempt to perform arithmetic on a nil value
+2021-08-29 19:27:57	0	自动保存
+	1	本大帅调用C:\Dice\Dice2631648408\plugin\CheckDaily.lua函数dingdata失败!\nC:\Dice\Dice2631648408\plugin\CheckDaily.lua:77: attempt to concatenate a nil value (local 'userTargerCheck')
+	1	本大帅调用C:\Dice\Dice2631648408\plugin\CheckDaily.lua函数dingdata失败!\nC:\Dice\Dice2631648408\plugin\CheckDaily.lua:77: attempt to concatenate a nil value (local 'userTargerCheck')
+2021-08-29 19:32:58	0	自动保存
+2021-08-29 19:33:56	0	检查系统负载
+2021-08-29 19:56:10	1	\n读取C:\Dice\Dice2631648408\PublicDeck中的17个文件, 共1433个条目\n读取失败2个:\nUntitled-1.json\n调查员奇遇.txt\n读取/mod/中的2个文件, 共262个条目\n读取/plugin/中的5个脚本, 共7个指令\n读取失败1个:\nCheckDaily.lua\n扩展配置读取完毕√
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2021-08-29 19:56:11	1	本大帅初始化完成，用时2秒
+2021-08-29 19:57:11	0	检查系统负载
+2021-08-29 19:58:58	1	\n读取C:\Dice\Dice2631648408\PublicDeck中的17个文件, 共1433个条目\n读取失败2个:\nUntitled-1.json\n调查员奇遇.txt\n读取/mod/中的2个文件, 共262个条目\n读取/plugin/中的5个脚本, 共9个指令\n扩展配置读取完毕√
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2021-08-29 19:58:59	1	本大帅初始化完成，用时1秒
+2021-08-29 19:59:59	0	检查系统负载
